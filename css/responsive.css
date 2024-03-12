@@ -3,6 +3,16 @@
         height: auto;
     }
 
+body, header {
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+    
     .slider_section {
         padding: 50px 0;
     }
@@ -19,6 +29,16 @@
         margin-top: 10px;
     }
 
+body, header {
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+    
     .user_option a {
         margin-bottom: 10px;
     }
@@ -32,8 +52,19 @@
 
     .info_section .col-md-3 {
         text-align: center;
+    
     }
 
+body, header {
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+    
     .info_section .col-md-3:not(:nth-last-child(1)) {
         margin-bottom: 35px;
     }
