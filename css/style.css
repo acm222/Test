@@ -7,7 +7,15 @@ body {
 body, header {
   overflow: hidden;
 }
+body, header {
+  overflow: hidden;
+}
 
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 .layout_padding {
   padding: 75px 0;
 }
