@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
 }
 
+body, header {
+  overflow: hidden;
+}
+
 .layout_padding {
   padding: 75px 0;
 }
