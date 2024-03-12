@@ -23,15 +23,7 @@ $primary1:#fec016;
     color: $col1;
   }
 }
-body, header {
-  overflow: hidden;
-}
 
-body {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
 @mixin upperBold {
   text-transform: uppercase;
   font-weight: bold;
